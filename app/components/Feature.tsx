@@ -14,9 +14,9 @@ const Feature = () => {
           AI apps generation
         </Typography>
         <Typography variant="body1" className={styles.subtitle}>
-          Unlock the full potential of your tech stack with Horizon's intuitive
-          and Unlock the full potential of your tech stack with GenAI's
-          intuitive and
+          Unlock the full potential of your tech stack with Horizon intuitive
+          and Unlock the full potential of your tech stack with GenAI intuitive
+          and
         </Typography>
       </div>
     </Container>
