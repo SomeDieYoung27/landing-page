@@ -1,0 +1,15 @@
+/* components/Faq.module.css */
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.container h1 {
+  margin-bottom: 10px;
+}
+
+.container p {
+  color: #666;
+  margin-bottom: 30px;
+}

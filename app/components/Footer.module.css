@@ -1,0 +1,63 @@
+/* components/Footer.module.css */
+
+.footer {
+  background-color: #111;
+  color: white;
+  padding: 40px;
+}
+
+.grid {
+  display: flex;
+  justify-content: space-between; /* Ensure sections are spaced out */
+  align-items: flex-start; /* Align items to the top */
+}
+
+.title {
+  margin-bottom: 20px;
+  color: white;
+}
+
+.buttonContainer {
+  text-align: right;
+}
+
+.button {
+  background-color: #ff5722;
+  color: white;
+}
+
+.divider {
+  border: 0;
+  height: 1px;
+  background: #333;
+  margin: 20px 0;
+}
+
+.section {
+  flex: 1;
+  margin-right: 40px; /* Add margin to create space between sections */
+}
+
+.genaiSection {
+  margin-right: 80px; /* Increase padding between GenAI section and other sections */
+}
+
+.sectionTitle {
+  margin-bottom: 10px;
+  color: white;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.list li {
+  margin-bottom: 10px;
+  color: #999;
+}
+
+.description {
+  margin-bottom: 20px;
+  color: #999;
+}

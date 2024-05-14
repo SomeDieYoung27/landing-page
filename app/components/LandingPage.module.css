@@ -1,0 +1,72 @@
+/* components/LandingPage.module.css */
+
+.appBar {
+  background-color: white;
+  box-shadow: none;
+  padding: 10px 0;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: #ff5722;
+  font-weight: bold;
+}
+
+.navLinks {
+  display: flex;
+  gap: 20px;
+}
+
+.navItem {
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+}
+
+.navButton {
+  background-color: #ff5722;
+  color: white;
+}
+
+.container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heroText {
+  max-width: 50%;
+  text-align: left;
+}
+
+.heroTitle {
+  color: #ff5722;
+  font-weight: bold;
+}
+
+.heroSubtitle {
+  margin: 20px 0;
+}
+
+.heroButton {
+  background-color: #ff5722;
+  color: white;
+}
+
+.heroImage {
+  max-width: 45%;
+}
+
+.image {
+  width: 100%;
+}

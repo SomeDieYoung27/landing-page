@@ -1,0 +1,39 @@
+/* components/DynamicFeatureSection.module.css */
+
+.container {
+  padding: 40px 20px;
+}
+
+.grid {
+  display: flex;
+  align-items: flex-start; /* Aligns items to the top */
+  margin-bottom: 40px;
+}
+
+.textContainerLeft {
+  text-align: left;
+}
+
+.textContainerRight {
+  text-align: left;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  color: #666;
+}
+
+.image {
+  width: 100%;
+  border-radius: 6px;
+  padding-left: 150px;
+  padding-top: 0; /* Remove padding-top to align with top */
+}
+
+.highlight {
+  color: orange;
+  font-weight: bold;
+}

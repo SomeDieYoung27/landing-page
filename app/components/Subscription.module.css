@@ -1,0 +1,38 @@
+/* components/Subscription.module.css */
+
+.subscription {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.container {
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.highlight {
+  color: orange;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+}
+
+.input {
+  background-color: white;
+}
+
+.button {
+  background-color: #ff5722;
+  color: white;
+}

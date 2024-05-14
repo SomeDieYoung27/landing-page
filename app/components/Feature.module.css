@@ -1,0 +1,29 @@
+/* components/FeatureSection.module.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 20px;
+  text-align: center;
+  /* Ensure it takes the full height of the viewport */
+}
+
+.textContainer {
+  max-width: 600px; /* Restrict the width of the text container */
+  text-align: center;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+}
